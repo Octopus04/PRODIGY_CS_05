@@ -1,2 +1,1 @@
-# PRODIGY_CS_05
-Network_Packet_Analyzer
+# Network_Packet_Analyzer
